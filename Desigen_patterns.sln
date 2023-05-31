@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{C0A01DA3-C402-4247-A320-7FD154FF1988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{B1AC53C0-39B0-4D9A-96A1-4151421EC96E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{B1AC53C0-39B0-4D9A-96A1-4151421EC96E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{36F2A88E-161E-4785-96B9-EDD046D99417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{36F2A88E-161E-4785-96B9-EDD046D99417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{D22EB093-5315-408E-9B1A-95EE42C39351}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{36F2A88E-161E-4785-96B9-EDD046D99417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F2A88E-161E-4785-96B9-EDD046D99417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F2A88E-161E-4785-96B9-EDD046D99417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22EB093-5315-408E-9B1A-95EE42C39351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22EB093-5315-408E-9B1A-95EE42C39351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22EB093-5315-408E-9B1A-95EE42C39351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22EB093-5315-408E-9B1A-95EE42C39351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
